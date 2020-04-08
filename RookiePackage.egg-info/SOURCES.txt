@@ -1,0 +1,6 @@
+README.md
+setup.py
+RookiePackage.egg-info/PKG-INFO
+RookiePackage.egg-info/SOURCES.txt
+RookiePackage.egg-info/dependency_links.txt
+RookiePackage.egg-info/top_level.txt
